@@ -1,0 +1,11 @@
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\bin\Debug\RegistroEscuelita.exe.config
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\bin\Debug\RegistroEscuelita.exe
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\bin\Debug\RegistroEscuelita.pdb
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.Form1.resources
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.Properties.Resources.resources
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.csproj.GenerateResource.cache
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.exe
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.pdb
+C:\Users\karin\source\repos\RegistroEscuelita\RegistroEscuelita\obj\Debug\RegistroEscuelita.RegistroNuevo.resources
